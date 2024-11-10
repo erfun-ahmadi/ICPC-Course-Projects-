@@ -1,0 +1,6 @@
+fani 10 10
+ce 11 19
+pezeshki 12 90
+adabiat 13 50
+mechanic 14 5
+shimi 15 37
